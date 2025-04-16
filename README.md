@@ -1,16 +1,43 @@
-## Hi there 👋
+# DevCage27 | Desenvolvedora em formação com foco em UI/UX e mobile
 
-<!--
-**DevCage27/DevCage27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Cage Ramos, estudante de tecnologia com foco em desenvolvimento de interfaces intuitivas, acessíveis e visualmente impactantes.
 
-Here are some ideas to get you started:
+Atualmente, estou aprofundando meus estudos em:
+- **Desenvolvimento Mobile** com Kotlin
+- **Banco de dados NoSQL**, especialmente MongoDB
+- **Web Design** com HTML5, CSS3 e JavaScript
+- **Motion Design** e experiências visuais interativas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 Projetos em andamento
+- **Duolingo Clone**: estudo de UI e funcionalidades gamificadas para aprendizado de idiomas.
+- **Interface de To-Do App**: projeto de responsividade e animações leves com CSS.
+- **Protótipos em Figma**: estudos de design centrado no usuário.
+
+---
+
+## 🛠️ Stack atual
+
+| Tecnologia | Descrição |
+|------------|-----------|
+| HTML5/CSS3 | Estrutura e estilização web responsiva |
+| JavaScript | Comportamento e interatividade |
+| Kotlin | Desenvolvimento Android nativo |
+| MongoDB | Banco de dados orientado a documentos |
+| Figma | Prototipagem de interfaces e fluxos |
+| Git/GitHub | Controle de versão e colaboração |
+
+---
+
+## 🎯 Objetivos
+- Criar interfaces que combinem acessibilidade, usabilidade e identidade visual forte.
+- Contribuir com projetos open source voltados para educação, arte ou tecnologia social.
+- Evoluir continuamente como dev e designer, unindo estética e funcionalidade.
+
+---
+
+**Contato profissional em breve.**
+
+Enquanto isso, acompanhe meus estudos e projetos aqui mesmo.  
+Contribuições, sugestões e feedbacks são sempre bem-vindos!
