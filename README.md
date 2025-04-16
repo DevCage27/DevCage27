@@ -1,6 +1,6 @@
 # DevCage27 | Desenvolvedora em formação com foco em UI/UX e mobile
 
-Olá! Sou Cage Ramos, estudante de tecnologia com foco em desenvolvimento de interfaces intuitivas, acessíveis e visualmente impactantes.
+Olá! Sou Geovana Ramos, estudante de tecnologia com foco em desenvolvimento de interfaces intuitivas, acessíveis e visualmente impactantes.
 
 Atualmente, estou aprofundando meus estudos em:
 - **Desenvolvimento Mobile** com Kotlin
