@@ -1,4 +1,4 @@
-#| Desenvolvedora em formação com foco em Web
+# | Desenvolvedora em formação com foco em Web
 
 Olá! Sou Geovana Ramos, estudante de tecnologia com foco em desenvolvimento de interfaces intuitivas, acessíveis e visualmente impactantes.
 
