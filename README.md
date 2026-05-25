@@ -1,4 +1,4 @@
-# DevCage27 | Desenvolvedora em formação com foco em mobile
+#| Desenvolvedora em formação com foco em Web
 
 Olá! Sou Geovana Ramos, estudante de tecnologia com foco em desenvolvimento de interfaces intuitivas, acessíveis e visualmente impactantes.
 
@@ -7,12 +7,6 @@ Atualmente, estou aprofundando meus estudos em:
 - **Banco de dados NoSQL**, especialmente MongoDB
 - **Web Design** com HTML5, CSS3 e JavaScript
 ---
-
-## 🚧 Projetos em andamento
-- **Protótipos em Figma**: estudos de design centrado no usuário.
-
----
-
 ## 🛠️ Stack atual
 
 | Tecnologia | Descrição |
