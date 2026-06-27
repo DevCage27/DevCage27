@@ -1,11 +1,11 @@
-# | 🌌 Desenvolvedora em formação | Web e Desenvolvimento Mobile
+# 🌌 Desenvolvedora em formação | Web e Desenvolvimento Mobile
 
 Olá! bem vindos ao meu perfil. Me chamo Geovana Ramos, sou estudante de tecnologia autoditada iniciando a carreira na área. 
 
 Atualmente, estou aprofundando meus estudos em:
 - **Desenvolvimento Web** com HTML5, CSS3 e JavaScript
 - **Fortalecendo minha base na programação** estudando sobre algoritmos, lógica de programação, linguagens, sistemas operacionais, boas práticas para desenvolvimento agil
-- E atualmente, por atuar como analista de QA executando testes em terminais, também tenho estudado sobre ** padrão de mensageria financeira ISO 8583**.
+- E atualmente, por atuar como analista de QA executando testes em terminais, também tenho estudado sobre **padrão de mensageria financeira ISO 8583**.
 ---
 ## 🛠️ Stack atual
 
